@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Causal Effects of Socioeconomic and Political Factors on Life Expectancy in 166 Different Countries
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+This project examines causal relationships between various socioeconomic variables and life expectancy outcomes in 166 different countries, with the ability to account for new, unseen data and variables with an intuitive data pipeline process with detailed instructions and the PC algorithm with updated code to account for missingness in data. With access to this model and pipeline, we hope that questions such as “do authoritarian countries have a direct relation to life expectancy?” or “how does women in government affect perceived notion of social support?” will now be able to be answered and understood. Through our own analysis, we were able to find intriguing results, such as a higher Perception of Corruption is distinctly related to a lower Life Ladder score. We also found that higher quality of life perceptions is related to lower economic inequality. These results aim to educate not only the general public, but government officials as well. 
